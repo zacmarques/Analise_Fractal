@@ -79,9 +79,5 @@ Se você encontrar erros ou quiser melhorias, entre em contato ou abra uma issue
 
 **Autor:** Isaac Marques de Souza Garcia, mestrando pelo Programa de Pós-Graduação em História Ibérica da Universidade Federal de Alfenas (UNIFAL-MG).    
 
---- 
-
-*Pronto para copiar e colar em um arquivo `README.md`!* 📦
-
-Autor: Isaac Marques de Souza Garcia, mestrando pelo Programa de Pós-Graduação em História Ibérica da Universidade Federal de Alfenas (UNIFAL-MG).
+---
 
