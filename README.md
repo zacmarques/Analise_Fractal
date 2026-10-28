@@ -66,9 +66,8 @@ analisador_para_banca(nome_da_sua_imagem)
 ---
 
 ## **Notas Importantes**  
-- A imagem deve ser em **formato PNG** e **escuro em tons de cinza** (preferencialmente com elementos geométricos claros).  
-- O script ajusta automaticamente a margem inferior da janela para exibir a fórmula completa.  
-- Para uso em trabalhos acadêmicos, cite a metodologia de **contagem de caixas** e a fórmula aplicada.
+- A imagem deve ser em **formato PNG** e, preferencialmente, com elementos geométricos claros para que seja possível identificá-los.  
+- O script ajusta automaticamente a margem inferior da janela para exibir a fórmula completa.
 
 ---
 
